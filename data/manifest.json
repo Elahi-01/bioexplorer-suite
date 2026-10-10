@@ -1,0 +1,123 @@
+{
+  "retrieved_utc": "2026-10-10T20:55:34.153079+00:00",
+  "sources": {
+    "GSE42568_series_matrix.txt.gz": {
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE42nnn/GSE42568/matrix/GSE42568_series_matrix.txt.gz",
+      "sha256": "43b93f72f1d81838dcd2a5b6ccc3bc1875e46230dad0d7346236773a99e32b76"
+    },
+    "GPL570.annot.gz": {
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPLnnn/GPL570/annot/GPL570.annot.gz",
+      "sha256": "d7cd44352127b1e34f3a720ebea86093ef255a38f1612a85a2962b71bde8f394"
+    },
+    "fda_animal_pathogens.xlsx": {
+      "url": "https://www.fda.gov/media/132928/download?attachment",
+      "sha256": "a24fc9cdb30b47b94d81c3592f8a1d5b162bd37cd0da2ec38a4d11c4eb27ca97"
+    }
+  },
+  "gene": {
+    "accession": "GSE42568",
+    "platform": "GPL570",
+    "features": 54675,
+    "samples": 121,
+    "groups": {
+      "Breast cancer": 104,
+      "Normal": 17
+    },
+    "scale": "Submitter-provided log2 GC-RMA signal intensity",
+    "selection": "All probe sets and all samples; no rounding, filtering, re-normalization or re-logging."
+  },
+  "amr": {
+    "source_rows": 533831,
+    "bundled_ast_rows": 499994,
+    "isolates": 27013,
+    "years": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "organisms": [
+      "Escherichia coli",
+      "Klebsiella spp",
+      "Salmonella",
+      "Staphylococcus pseudintermedius"
+    ],
+    "regions": [
+      "Alabama",
+      "Arizona",
+      "Canada",
+      "Colorado",
+      "Florida",
+      "Georgia",
+      "Illinois",
+      "Indiana",
+      "Iowa",
+      "Kansas",
+      "Kentucky",
+      "Louisiana",
+      "Michigan",
+      "Minnesota",
+      "Mississippi",
+      "Missouri",
+      "Nebraska",
+      "New Jersey",
+      "New York",
+      "North Carolina",
+      "North Dakota",
+      "Not reported",
+      "Ohio",
+      "Oklahoma",
+      "Pennsylvania",
+      "South Dakota",
+      "Tennessee",
+      "Texas",
+      "Virginia",
+      "Washington",
+      "Wisconsin"
+    ],
+    "interpretations_excluded": {
+      "Non-Interpretable": 33412
+    },
+    "missing_key_rows_excluded": 0,
+    "ambiguous_metadata_isolates_excluded": 23,
+    "ambiguous_metadata_rows_excluded": 422,
+    "conflicting_key_count": 1,
+    "conflicting_result_rows_excluded": 2,
+    "same_key_same_result_duplicates_removed": 1,
+    "result_counts": {
+      "Susceptible": 363535,
+      "Resistant": 136459
+    },
+    "selection": "All workbook years and organisms; retain source-reported S/I/R only. Exclude isolates with conflicting source metadata; exclude all rows for conflicting AST keys; collapse same-result duplicate keys. No MIC breakpoint reinterpretation."
+  },
+  "files": {
+    "fda_ambiguous_metadata_excluded.csv": {
+      "sha256": "eafc60a4dce96416ae3c3713b03690656d8839b16984161445f2bbdea47e584d",
+      "bytes": 68329
+    },
+    "fda_amr.csv.gz": {
+      "sha256": "68d9a42753278a67fe7712031929994d7234e2ed18fb8b8c8160cd92c0cf1e99",
+      "bytes": 2505573
+    },
+    "fda_conflicting_results_excluded.csv": {
+      "sha256": "319853b9d6d1e96f1eca7cc935ba08149e1a91dd91c6bd27709d12e23a69bd42",
+      "bytes": 427
+    },
+    "gse42568_annotation.csv.gz": {
+      "sha256": "764d9f020b2058204841810044624978b2d21ef534f790276eabd7b203901204",
+      "bytes": 321406
+    },
+    "gse42568_expression.csv.gz": {
+      "sha256": "cb6b37e0fe517bf0ee625c08be0792846d9f62d78b467cae6f6dbc35785d7cf2",
+      "bytes": 22308622
+    },
+    "gse42568_metadata.csv": {
+      "sha256": "8738043c28c880c46169e19ec0bc323aa36be332c2f54bd6c52111226c551c13",
+      "bytes": 6489
+    }
+  }
+}

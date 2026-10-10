@@ -1,0 +1,423 @@
+Agency,Original_sample_ID,State,Host,Specimen,Bacteria,Antibiotic,MIC,MIC_sign,Result,Year,Isolate_ID
+Vet-LIRN,ECOL-20-VL-NY-NCR-0035,North Carolina,Dogs,Other Tissues/ Body Sites,Escherichia coli,Ampicillin,8.0,>,Resistant,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0035
+Vet-LIRN,ECOL-20-VL-NY-NCR-0035,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Amikacin,4.0,<=,Susceptible,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0035
+Vet-LIRN,ECOL-20-VL-NY-NCR-0035,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Amoxicillin/Clavulanic Acid,8.0,>,Susceptible,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0035
+Vet-LIRN,ECOL-20-VL-NY-NCR-0035,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Cefazolin,32.0,>,Resistant,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0035
+Vet-LIRN,ECOL-20-VL-NY-NCR-0035,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Cefovecin,8.0,>,Resistant,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0035
+Vet-LIRN,ECOL-20-VL-NY-NCR-0035,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Cefpodoxime,8.0,>,Resistant,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0035
+Vet-LIRN,ECOL-20-VL-NY-NCR-0035,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Ceftazidime,16.0,>,Resistant,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0035
+Vet-LIRN,ECOL-20-VL-NY-NCR-0035,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Cephalexin,16.0,>,Resistant,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0035
+Vet-LIRN,ECOL-20-VL-NY-NCR-0035,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Chloramphenicol,8.0,=,Resistant,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0035
+Vet-LIRN,ECOL-20-VL-NY-NCR-0035,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Doxycycline,2.0,=,Resistant,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0035
+Vet-LIRN,ECOL-20-VL-NY-NCR-0035,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Enrofloxacin,0.12,<=,Susceptible,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0035
+Vet-LIRN,ECOL-20-VL-NY-NCR-0035,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Gentamicin,1.0,=,Susceptible,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0035
+Vet-LIRN,ECOL-20-VL-NY-NCR-0035,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Imipenem,1.0,<=,Susceptible,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0035
+Vet-LIRN,ECOL-20-VL-NY-NCR-0035,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Marbofloxacin,0.12,<=,Susceptible,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0035
+Vet-LIRN,ECOL-20-VL-NY-NCR-0035,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Orbifloxacin,1.0,<=,Susceptible,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0035
+Vet-LIRN,ECOL-20-VL-NY-NCR-0035,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Piperacillin/Tazobactam,8.0,<=,Susceptible,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0035
+Vet-LIRN,ECOL-20-VL-NY-NCR-0035,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Pradofloxacin,0.25,<=,Susceptible,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0035
+Vet-LIRN,ECOL-20-VL-NY-NCR-0035,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Tetracycline,4.0,<=,Susceptible,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0035
+Vet-LIRN,ECOL-20-VL-NY-NCR-0035,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Trimethoprim/Sulfamethoxazole,0.5,<=,Susceptible,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0035
+Vet-LIRN,ECOL-20-VL-NY-NCR-0039,North Carolina,Dogs,Other Tissues/ Body Sites,Escherichia coli,Ampicillin,8.0,>,Resistant,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0039
+Vet-LIRN,ECOL-20-VL-NY-NCR-0039,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Amikacin,4.0,<=,Susceptible,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0039
+Vet-LIRN,ECOL-20-VL-NY-NCR-0039,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Amoxicillin/Clavulanic Acid,8.0,>,Susceptible,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0039
+Vet-LIRN,ECOL-20-VL-NY-NCR-0039,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Cefazolin,32.0,>,Resistant,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0039
+Vet-LIRN,ECOL-20-VL-NY-NCR-0039,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Cefovecin,8.0,>,Resistant,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0039
+Vet-LIRN,ECOL-20-VL-NY-NCR-0039,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Cefpodoxime,8.0,>,Resistant,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0039
+Vet-LIRN,ECOL-20-VL-NY-NCR-0039,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Ceftazidime,16.0,>,Resistant,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0039
+Vet-LIRN,ECOL-20-VL-NY-NCR-0039,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Cephalexin,16.0,>,Resistant,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0039
+Vet-LIRN,ECOL-20-VL-NY-NCR-0039,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Chloramphenicol,8.0,=,Resistant,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0039
+Vet-LIRN,ECOL-20-VL-NY-NCR-0039,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Doxycycline,8.0,>,Resistant,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0039
+Vet-LIRN,ECOL-20-VL-NY-NCR-0039,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Enrofloxacin,0.12,<=,Susceptible,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0039
+Vet-LIRN,ECOL-20-VL-NY-NCR-0039,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Gentamicin,1.0,=,Susceptible,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0039
+Vet-LIRN,ECOL-20-VL-NY-NCR-0039,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Imipenem,1.0,<=,Susceptible,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0039
+Vet-LIRN,ECOL-20-VL-NY-NCR-0039,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Marbofloxacin,0.12,<=,Susceptible,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0039
+Vet-LIRN,ECOL-20-VL-NY-NCR-0039,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Orbifloxacin,1.0,<=,Susceptible,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0039
+Vet-LIRN,ECOL-20-VL-NY-NCR-0039,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Piperacillin/Tazobactam,8.0,<=,Susceptible,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0039
+Vet-LIRN,ECOL-20-VL-NY-NCR-0039,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Pradofloxacin,0.25,<=,Susceptible,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0039
+Vet-LIRN,ECOL-20-VL-NY-NCR-0039,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Tetracycline,16.0,>,Resistant,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0039
+Vet-LIRN,ECOL-20-VL-NY-NCR-0039,North Carolina,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Trimethoprim/Sulfamethoxazole,0.5,<=,Susceptible,2020,Vet-LIRN|2020|ECOL-20-VL-NY-NCR-0039
+Vet-LIRN,OTH-22-VL-LA-KS-0014,Canada,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Amikacin,4.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-KS-0014
+Vet-LIRN,OTH-22-VL-LA-KS-0014,Canada,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Amoxicillin/Clavulanic Acid,2.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-KS-0014
+Vet-LIRN,OTH-22-VL-LA-KS-0014,Canada,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Ampicillin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-KS-0014
+Vet-LIRN,OTH-22-VL-LA-KS-0014,Canada,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cefazolin,2.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-KS-0014
+Vet-LIRN,OTH-22-VL-LA-KS-0014,Canada,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cefovecin,1.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-KS-0014
+Vet-LIRN,OTH-22-VL-LA-KS-0014,Washington,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cefpodoxime,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-KS-0014
+Vet-LIRN,OTH-22-VL-LA-KS-0014,Washington,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Ceftazidime,4.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-KS-0014
+Vet-LIRN,OTH-22-VL-LA-KS-0014,Washington,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cephalexin,4.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-KS-0014
+Vet-LIRN,OTH-22-VL-LA-KS-0014,Washington,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Chloramphenicol,4.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-KS-0014
+Vet-LIRN,OTH-22-VL-LA-KS-0014,Washington,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Doxycycline,2.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-LA-KS-0014
+Vet-LIRN,OTH-22-VL-LA-KS-0014,Washington,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Enrofloxacin,0.125,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-KS-0014
+Vet-LIRN,OTH-22-VL-LA-KS-0014,Washington,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Gentamicin,0.25,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-KS-0014
+Vet-LIRN,OTH-22-VL-LA-KS-0014,Washington,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Imipenem,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-KS-0014
+Vet-LIRN,OTH-22-VL-LA-KS-0014,Washington,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Marbofloxacin,0.125,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-KS-0014
+Vet-LIRN,OTH-22-VL-LA-KS-0014,Washington,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Orbifloxacin,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-KS-0014
+Vet-LIRN,OTH-22-VL-LA-KS-0014,Washington,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Piperacillin/Tazobactam,8.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-KS-0014
+Vet-LIRN,OTH-22-VL-LA-KS-0014,Washington,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Pradofloxacin,0.25,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-KS-0014
+Vet-LIRN,OTH-22-VL-LA-KS-0014,Washington,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Tetracycline,4.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-KS-0014
+Vet-LIRN,OTH-22-VL-LA-KS-0014,Washington,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Trimethoprim/Sulfamethoxazole,0.5,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-KS-0014
+Vet-LIRN,OTH-22-VL-LA-TX-0009,New York,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Cefazolin,16.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0009
+Vet-LIRN,OTH-22-VL-LA-TX-0009,New York,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ceftazidime,64.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0009
+Vet-LIRN,OTH-22-VL-LA-TX-0009,New York,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ceftiofur,2.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0009
+Vet-LIRN,OTH-22-VL-LA-TX-0009,New York,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Chloramphenicol,32.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0009
+Vet-LIRN,OTH-22-VL-LA-TX-0009,New York,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Clarithromycin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0009
+Vet-LIRN,OTH-22-VL-LA-TX-0009,New York,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Doxycycline,16.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0009
+Vet-LIRN,OTH-22-VL-LA-TX-0009,New York,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Enrofloxacin,2.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0009
+Vet-LIRN,OTH-22-VL-LA-TX-0009,New York,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Erythromycin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0009
+Vet-LIRN,OTH-22-VL-LA-TX-0009,New York,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Gentamicin,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0009
+Vet-LIRN,OTH-22-VL-LA-TX-0009,New York,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Oxacillin + 2% NaCl,4.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0009
+Vet-LIRN,OTH-22-VL-LA-TX-0009,New York,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Penicillin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0009
+Vet-LIRN,OTH-22-VL-LA-TX-0009,New York,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Rifampin,4.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0009
+Vet-LIRN,OTH-22-VL-LA-TX-0009,New York,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Tetracycline,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0009
+Vet-LIRN,OTH-22-VL-LA-TX-0009,New York,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ticarcillin,64.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0009
+Vet-LIRN,OTH-22-VL-LA-TX-0009,New York,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ticarcillin/Clavulanic Acid,64.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0009
+Vet-LIRN,OTH-22-VL-LA-TX-0009,New York,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Trimethoprim/Sulfamethoxazole,4.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0009
+Vet-LIRN,OTH-22-VL-LA-TX-0009,Texas,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Amikacin,32.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0009
+Vet-LIRN,OTH-22-VL-LA-TX-0009,Texas,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ampicillin,32.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0009
+Vet-LIRN,OTH-22-VL-LA-TX-0009,Texas,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Azithromycin,4.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0009
+Vet-LIRN,OTH-22-VL-LA-TX-0023,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ceftazidime,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0023
+Vet-LIRN,OTH-22-VL-LA-TX-0023,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ceftiofur,0.5,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0023
+Vet-LIRN,OTH-22-VL-LA-TX-0023,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Chloramphenicol,8.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0023
+Vet-LIRN,OTH-22-VL-LA-TX-0023,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Clarithromycin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0023
+Vet-LIRN,OTH-22-VL-LA-TX-0023,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Enrofloxacin,0.25,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0023
+Vet-LIRN,OTH-22-VL-LA-TX-0023,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Erythromycin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0023
+Vet-LIRN,OTH-22-VL-LA-TX-0023,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Gentamicin,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0023
+Vet-LIRN,OTH-22-VL-LA-TX-0023,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Oxacillin + 2% NaCl,4.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0023
+Vet-LIRN,OTH-22-VL-LA-TX-0023,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Penicillin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0023
+Vet-LIRN,OTH-22-VL-LA-TX-0023,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Rifampin,4.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0023
+Vet-LIRN,OTH-22-VL-LA-TX-0023,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Tetracycline,2.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0023
+Vet-LIRN,OTH-22-VL-LA-TX-0023,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ticarcillin,64.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0023
+Vet-LIRN,OTH-22-VL-LA-TX-0023,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Trimethoprim/Sulfamethoxazole,0.5,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0023
+Vet-LIRN,OTH-22-VL-LA-TX-0023,New York,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Amikacin,4.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0023
+Vet-LIRN,OTH-22-VL-LA-TX-0023,New York,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ampicillin,32.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0023
+Vet-LIRN,OTH-22-VL-LA-TX-0023,New York,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Azithromycin,4.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0023
+Vet-LIRN,OTH-22-VL-LA-TX-0023,New York,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Cefazolin,4.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0023
+Vet-LIRN,OTH-22-VL-LA-TX-0038,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Amikacin,4.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0038
+Vet-LIRN,OTH-22-VL-LA-TX-0038,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ampicillin,32.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0038
+Vet-LIRN,OTH-22-VL-LA-TX-0038,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Azithromycin,4.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0038
+Vet-LIRN,OTH-22-VL-LA-TX-0038,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Cefazolin,4.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0038
+Vet-LIRN,OTH-22-VL-LA-TX-0038,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ceftazidime,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0038
+Vet-LIRN,OTH-22-VL-LA-TX-0038,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ceftiofur,0.5,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0038
+Vet-LIRN,OTH-22-VL-LA-TX-0038,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Chloramphenicol,32.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0038
+Vet-LIRN,OTH-22-VL-LA-TX-0038,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Clarithromycin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0038
+Vet-LIRN,OTH-22-VL-LA-TX-0038,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Doxycycline,16.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0038
+Vet-LIRN,OTH-22-VL-LA-TX-0038,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Enrofloxacin,2.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0038
+Vet-LIRN,OTH-22-VL-LA-TX-0038,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Erythromycin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0038
+Vet-LIRN,OTH-22-VL-LA-TX-0038,Ohio,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Gentamicin,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0038
+Vet-LIRN,OTH-22-VL-LA-TX-0038,Ohio,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Oxacillin + 2% NaCl,4.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0038
+Vet-LIRN,OTH-22-VL-LA-TX-0038,Ohio,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Penicillin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0038
+Vet-LIRN,OTH-22-VL-LA-TX-0038,Ohio,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Rifampin,4.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0038
+Vet-LIRN,OTH-22-VL-LA-TX-0038,Ohio,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Tetracycline,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0038
+Vet-LIRN,OTH-22-VL-LA-TX-0038,Ohio,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ticarcillin,64.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0038
+Vet-LIRN,OTH-22-VL-LA-TX-0038,Ohio,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Trimethoprim/Sulfamethoxazole,4.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-LA-TX-0038
+Vet-LIRN,OTH-22-VL-NY-MS-0016,Mississippi,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Amikacin,4.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0016
+Vet-LIRN,OTH-22-VL-NY-MS-0016,Mississippi,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Amoxicillin/Clavulanic Acid,1.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0016
+Vet-LIRN,OTH-22-VL-NY-MS-0016,Mississippi,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Ampicillin,1.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0016
+Vet-LIRN,OTH-22-VL-NY-MS-0016,Mississippi,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cefazolin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0016
+Vet-LIRN,OTH-22-VL-NY-MS-0016,Mississippi,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cefovecin,4.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0016
+Vet-LIRN,OTH-22-VL-NY-MS-0016,Mississippi,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cefoxitin,16.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0016
+Vet-LIRN,OTH-22-VL-NY-MS-0016,Mississippi,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cefpodoxime,16.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0016
+Vet-LIRN,OTH-22-VL-NY-MS-0016,Mississippi,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Ceftiofur,4.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0016
+Vet-LIRN,OTH-22-VL-NY-MS-0016,Mississippi,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cephalothin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0016
+Vet-LIRN,OTH-22-VL-NY-MS-0016,Mississippi,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Chloramphenicol,4.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0016
+Vet-LIRN,OTH-22-VL-NY-MS-0016,Mississippi,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Clindamycin,4.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0016
+Vet-LIRN,OTH-22-VL-NY-MS-0016,Mississippi,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Doxycycline,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0016
+Vet-LIRN,OTH-22-VL-NY-MS-0016,Mississippi,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Enrofloxacin,0.25,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0016
+Vet-LIRN,OTH-22-VL-NY-MS-0016,Mississippi,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Erythromycin,4.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0016
+Vet-LIRN,OTH-22-VL-NY-MS-0016,North Carolina,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Gentamicin,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0016
+Vet-LIRN,OTH-22-VL-NY-MS-0016,North Carolina,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Imipenem,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0016
+Vet-LIRN,OTH-22-VL-NY-MS-0016,North Carolina,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Marbofloxacin,0.25,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0016
+Vet-LIRN,OTH-22-VL-NY-MS-0016,North Carolina,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Oxacillin + 2% NaCl,4.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0016
+Vet-LIRN,OTH-22-VL-NY-MS-0016,North Carolina,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Penicillin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0016
+Vet-LIRN,OTH-22-VL-NY-MS-0016,North Carolina,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Rifampin,2.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0016
+Vet-LIRN,OTH-22-VL-NY-MS-0016,North Carolina,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Ticarcillin,64.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0016
+Vet-LIRN,OTH-22-VL-NY-MS-0016,North Carolina,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Ticarcillin/Clavulanic Acid,64.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0016
+Vet-LIRN,OTH-22-VL-NY-MS-0016,North Carolina,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Trimethoprim/Sulfamethoxazole,0.5,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0016
+Vet-LIRN,OTH-22-VL-NY-MS-0048,North Carolina,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Amikacin,4.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0048
+Vet-LIRN,OTH-22-VL-NY-MS-0048,North Carolina,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Amoxicillin/Clavulanic Acid,1.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0048
+Vet-LIRN,OTH-22-VL-NY-MS-0048,North Carolina,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ampicillin,1.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0048
+Vet-LIRN,OTH-22-VL-NY-MS-0048,North Carolina,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Cefazolin,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0048
+Vet-LIRN,OTH-22-VL-NY-MS-0048,North Carolina,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Cefovecin,0.5,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0048
+Vet-LIRN,OTH-22-VL-NY-MS-0048,North Carolina,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Cefoxitin,4.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0048
+Vet-LIRN,OTH-22-VL-NY-MS-0048,North Carolina,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ceftiofur,0.5,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0048
+Vet-LIRN,OTH-22-VL-NY-MS-0048,North Carolina,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Chloramphenicol,4.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0048
+Vet-LIRN,OTH-22-VL-NY-MS-0048,North Carolina,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Clindamycin,4.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0048
+Vet-LIRN,OTH-22-VL-NY-MS-0048,North Carolina,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Doxycycline,8.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0048
+Vet-LIRN,OTH-22-VL-NY-MS-0048,North Carolina,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Enrofloxacin,0.25,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0048
+Vet-LIRN,OTH-22-VL-NY-MS-0048,North Carolina,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Erythromycin,4.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0048
+Vet-LIRN,OTH-22-VL-NY-MS-0048,North Carolina,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Gentamicin,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0048
+Vet-LIRN,OTH-22-VL-NY-MS-0048,North Carolina,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Marbofloxacin,0.25,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0048
+Vet-LIRN,OTH-22-VL-NY-MS-0048,North Carolina,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Oxacillin + 2% NaCl,4.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0048
+Vet-LIRN,OTH-22-VL-NY-MS-0048,North Carolina,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Penicillin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0048
+Vet-LIRN,OTH-22-VL-NY-MS-0048,North Carolina,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Rifampin,2.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0048
+Vet-LIRN,OTH-22-VL-NY-MS-0048,North Carolina,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ticarcillin,64.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0048
+Vet-LIRN,OTH-22-VL-NY-MS-0048,Oklahoma,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Trimethoprim/Sulfamethoxazole,0.5,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-NY-MS-0048
+Vet-LIRN,OTH-22-VL-OH-GA-0003,Georgia,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Amikacin,4.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0003
+Vet-LIRN,OTH-22-VL-OH-GA-0003,Iowa,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Amoxicillin/Clavulanic Acid,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0003
+Vet-LIRN,OTH-22-VL-OH-GA-0003,Iowa,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ampicillin,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0003
+Vet-LIRN,OTH-22-VL-OH-GA-0003,Iowa,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Cefazolin,32.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0003
+Vet-LIRN,OTH-22-VL-OH-GA-0003,Iowa,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Cefovecin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0003
+Vet-LIRN,OTH-22-VL-OH-GA-0003,Iowa,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Cefpodoxime,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0003
+Vet-LIRN,OTH-22-VL-OH-GA-0003,Iowa,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ceftazidime,16.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0003
+Vet-LIRN,OTH-22-VL-OH-GA-0003,Iowa,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Cephalexin,16.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0003
+Vet-LIRN,OTH-22-VL-OH-GA-0003,Iowa,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Chloramphenicol,32.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0003
+Vet-LIRN,OTH-22-VL-OH-GA-0003,Iowa,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Doxycycline,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0003
+Vet-LIRN,OTH-22-VL-OH-GA-0003,Iowa,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Enrofloxacin,4.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0003
+Vet-LIRN,OTH-22-VL-OH-GA-0003,Iowa,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Gentamicin,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0003
+Vet-LIRN,OTH-22-VL-OH-GA-0003,Iowa,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Marbofloxacin,4.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0003
+Vet-LIRN,OTH-22-VL-OH-GA-0003,Iowa,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Orbifloxacin,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0003
+Vet-LIRN,OTH-22-VL-OH-GA-0003,Iowa,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Piperacillin/Tazobactam,32.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0003
+Vet-LIRN,OTH-22-VL-OH-GA-0003,Iowa,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Pradofloxacin,2.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0003
+Vet-LIRN,OTH-22-VL-OH-GA-0003,Iowa,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Tetracycline,16.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0003
+Vet-LIRN,OTH-22-VL-OH-GA-0003,Iowa,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Trimethoprim/Sulfamethoxazole,4.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0003
+Vet-LIRN,OTH-22-VL-OH-GA-0050,Iowa,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Amikacin,4.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0050
+Vet-LIRN,OTH-22-VL-OH-GA-0050,Iowa,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Amoxicillin/Clavulanic Acid,2.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0050
+Vet-LIRN,OTH-22-VL-OH-GA-0050,Iowa,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Ampicillin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0050
+Vet-LIRN,OTH-22-VL-OH-GA-0050,Iowa,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cefazolin,2.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0050
+Vet-LIRN,OTH-22-VL-OH-GA-0050,Iowa,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cefovecin,0.5,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0050
+Vet-LIRN,OTH-22-VL-OH-GA-0050,Iowa,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cefpodoxime,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0050
+Vet-LIRN,OTH-22-VL-OH-GA-0050,Iowa,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Ceftazidime,4.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0050
+Vet-LIRN,OTH-22-VL-OH-GA-0050,Iowa,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cephalexin,4.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0050
+Vet-LIRN,OTH-22-VL-OH-GA-0050,Iowa,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Chloramphenicol,4.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0050
+Vet-LIRN,OTH-22-VL-OH-GA-0050,Iowa,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Doxycycline,2.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0050
+Vet-LIRN,OTH-22-VL-OH-GA-0050,Iowa,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Enrofloxacin,0.125,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0050
+Vet-LIRN,OTH-22-VL-OH-GA-0050,Iowa,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Gentamicin,0.25,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0050
+Vet-LIRN,OTH-22-VL-OH-GA-0050,Iowa,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Imipenem,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0050
+Vet-LIRN,OTH-22-VL-OH-GA-0050,Iowa,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Marbofloxacin,0.125,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0050
+Vet-LIRN,OTH-22-VL-OH-GA-0050,Iowa,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Orbifloxacin,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0050
+Vet-LIRN,OTH-22-VL-OH-GA-0050,Iowa,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Piperacillin/Tazobactam,8.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0050
+Vet-LIRN,OTH-22-VL-OH-GA-0050,Iowa,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Pradofloxacin,0.25,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0050
+Vet-LIRN,OTH-22-VL-OH-GA-0050,Iowa,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Tetracycline,4.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0050
+Vet-LIRN,OTH-22-VL-OH-GA-0050,Kentucky,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Trimethoprim/Sulfamethoxazole,0.5,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-GA-0050
+Vet-LIRN,OTH-22-VL-OH-OSU-0009,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ampicillin,16.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0009
+Vet-LIRN,OTH-22-VL-OH-OSU-0009,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Cefazolin,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0009
+Vet-LIRN,OTH-22-VL-OH-OSU-0009,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ceftazidime,2.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0009
+Vet-LIRN,OTH-22-VL-OH-OSU-0009,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ceftiofur,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0009
+Vet-LIRN,OTH-22-VL-OH-OSU-0009,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Chloramphenicol,32.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0009
+Vet-LIRN,OTH-22-VL-OH-OSU-0009,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Doxycycline,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0009
+Vet-LIRN,OTH-22-VL-OH-OSU-0009,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Enrofloxacin,1.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0009
+Vet-LIRN,OTH-22-VL-OH-OSU-0009,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Erythromycin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0009
+Vet-LIRN,OTH-22-VL-OH-OSU-0009,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Gentamicin,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0009
+Vet-LIRN,OTH-22-VL-OH-OSU-0009,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Minocycline,2.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0009
+Vet-LIRN,OTH-22-VL-OH-OSU-0009,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Oxacillin + 2% NaCl,4.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0009
+Vet-LIRN,OTH-22-VL-OH-OSU-0009,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Penicillin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0009
+Vet-LIRN,OTH-22-VL-OH-OSU-0009,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Rifampin,4.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0009
+Vet-LIRN,OTH-22-VL-OH-OSU-0009,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Tetracycline,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0009
+Vet-LIRN,OTH-22-VL-OH-OSU-0009,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Trimethoprim/Sulfamethoxazole,0.5,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0009
+Vet-LIRN,OTH-22-VL-OH-OSU-0009,North Carolina,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Amikacin,2.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0009
+Vet-LIRN,OTH-22-VL-OH-OSU-0030,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Amikacin,4.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0030
+Vet-LIRN,OTH-22-VL-OH-OSU-0030,Canada,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Amoxicillin/Clavulanic Acid,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0030
+Vet-LIRN,OTH-22-VL-OH-OSU-0030,Florida,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ampicillin,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0030
+Vet-LIRN,OTH-22-VL-OH-OSU-0030,Florida,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Cefazolin,32.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0030
+Vet-LIRN,OTH-22-VL-OH-OSU-0030,Florida,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Cefovecin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0030
+Vet-LIRN,OTH-22-VL-OH-OSU-0030,Florida,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Cefpodoxime,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0030
+Vet-LIRN,OTH-22-VL-OH-OSU-0030,Florida,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ceftazidime,16.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0030
+Vet-LIRN,OTH-22-VL-OH-OSU-0030,Florida,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Cephalexin,16.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0030
+Vet-LIRN,OTH-22-VL-OH-OSU-0030,Florida,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Chloramphenicol,32.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0030
+Vet-LIRN,OTH-22-VL-OH-OSU-0030,Florida,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Doxycycline,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0030
+Vet-LIRN,OTH-22-VL-OH-OSU-0030,Florida,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Enrofloxacin,2.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0030
+Vet-LIRN,OTH-22-VL-OH-OSU-0030,Florida,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Gentamicin,0.25,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0030
+Vet-LIRN,OTH-22-VL-OH-OSU-0030,Florida,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Marbofloxacin,1.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0030
+Vet-LIRN,OTH-22-VL-OH-OSU-0030,Florida,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Orbifloxacin,8.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0030
+Vet-LIRN,OTH-22-VL-OH-OSU-0030,Florida,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Piperacillin/Tazobactam,8.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0030
+Vet-LIRN,OTH-22-VL-OH-OSU-0030,Florida,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Pradofloxacin,1.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0030
+Vet-LIRN,OTH-22-VL-OH-OSU-0030,Florida,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Tetracycline,16.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0030
+Vet-LIRN,OTH-22-VL-OH-OSU-0030,Florida,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Trimethoprim/Sulfamethoxazole,4.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0030
+Vet-LIRN,OTH-22-VL-OH-OSU-0052,Florida,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Amikacin,4.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0052
+Vet-LIRN,OTH-22-VL-OH-OSU-0052,Florida,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Amoxicillin/Clavulanic Acid,2.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0052
+Vet-LIRN,OTH-22-VL-OH-OSU-0052,Indiana,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ampicillin,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0052
+Vet-LIRN,OTH-22-VL-OH-OSU-0052,Indiana,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Cefazolin,2.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0052
+Vet-LIRN,OTH-22-VL-OH-OSU-0052,Indiana,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Cefovecin,0.5,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0052
+Vet-LIRN,OTH-22-VL-OH-OSU-0052,Indiana,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ceftazidime,4.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0052
+Vet-LIRN,OTH-22-VL-OH-OSU-0052,Indiana,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Cephalexin,4.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0052
+Vet-LIRN,OTH-22-VL-OH-OSU-0052,Indiana,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Chloramphenicol,4.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0052
+Vet-LIRN,OTH-22-VL-OH-OSU-0052,Indiana,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Doxycycline,2.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0052
+Vet-LIRN,OTH-22-VL-OH-OSU-0052,Indiana,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Enrofloxacin,0.125,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0052
+Vet-LIRN,OTH-22-VL-OH-OSU-0052,Indiana,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Gentamicin,0.25,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0052
+Vet-LIRN,OTH-22-VL-OH-OSU-0052,Indiana,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Marbofloxacin,0.125,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0052
+Vet-LIRN,OTH-22-VL-OH-OSU-0052,Indiana,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Orbifloxacin,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0052
+Vet-LIRN,OTH-22-VL-OH-OSU-0052,Indiana,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Piperacillin/Tazobactam,8.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0052
+Vet-LIRN,OTH-22-VL-OH-OSU-0052,Indiana,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Tetracycline,4.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0052
+Vet-LIRN,OTH-22-VL-OH-OSU-0052,Indiana,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Trimethoprim/Sulfamethoxazole,0.5,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0052
+Vet-LIRN,OTH-22-VL-OH-OSU-0060,Canada,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cefazolin,2.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0060
+Vet-LIRN,OTH-22-VL-OH-OSU-0060,Canada,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cefovecin,0.5,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0060
+Vet-LIRN,OTH-22-VL-OH-OSU-0060,Canada,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cefpodoxime,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0060
+Vet-LIRN,OTH-22-VL-OH-OSU-0060,Canada,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Ceftazidime,4.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0060
+Vet-LIRN,OTH-22-VL-OH-OSU-0060,Canada,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cephalexin,4.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0060
+Vet-LIRN,OTH-22-VL-OH-OSU-0060,Canada,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Chloramphenicol,4.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0060
+Vet-LIRN,OTH-22-VL-OH-OSU-0060,Canada,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Doxycycline,2.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0060
+Vet-LIRN,OTH-22-VL-OH-OSU-0060,Canada,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Enrofloxacin,0.125,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0060
+Vet-LIRN,OTH-22-VL-OH-OSU-0060,Canada,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Gentamicin,0.25,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0060
+Vet-LIRN,OTH-22-VL-OH-OSU-0060,Canada,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Imipenem,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0060
+Vet-LIRN,OTH-22-VL-OH-OSU-0060,Canada,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Marbofloxacin,0.125,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0060
+Vet-LIRN,OTH-22-VL-OH-OSU-0060,Canada,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Orbifloxacin,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0060
+Vet-LIRN,OTH-22-VL-OH-OSU-0060,Canada,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Piperacillin/Tazobactam,8.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0060
+Vet-LIRN,OTH-22-VL-OH-OSU-0060,Canada,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Pradofloxacin,0.25,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0060
+Vet-LIRN,OTH-22-VL-OH-OSU-0060,Canada,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Tetracycline,4.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0060
+Vet-LIRN,OTH-22-VL-OH-OSU-0060,Canada,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Trimethoprim/Sulfamethoxazole,0.5,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0060
+Vet-LIRN,OTH-22-VL-OH-OSU-0060,Indiana,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Amikacin,4.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0060
+Vet-LIRN,OTH-22-VL-OH-OSU-0060,Indiana,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Amoxicillin/Clavulanic Acid,2.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0060
+Vet-LIRN,OTH-22-VL-OH-OSU-0060,Indiana,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Ampicillin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-OH-OSU-0060
+Vet-LIRN,OTH-22-VL-ON-ON-0070,Indiana,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ampicillin,16.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-ON-ON-0070
+Vet-LIRN,OTH-22-VL-ON-ON-0070,Indiana,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ceftiofur,1.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-ON-ON-0070
+Vet-LIRN,OTH-22-VL-ON-ON-0070,Indiana,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Clindamycin,16.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-ON-ON-0070
+Vet-LIRN,OTH-22-VL-ON-ON-0070,Indiana,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Enrofloxacin,0.125,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-ON-ON-0070
+Vet-LIRN,OTH-22-VL-ON-ON-0070,Indiana,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Florfenicol,4.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-ON-ON-0070
+Vet-LIRN,OTH-22-VL-ON-ON-0070,Indiana,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Gamithromycin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-ON-ON-0070
+Vet-LIRN,OTH-22-VL-ON-ON-0070,Indiana,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Gentamicin,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-ON-ON-0070
+Vet-LIRN,OTH-22-VL-ON-ON-0070,Indiana,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Penicillin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-ON-ON-0070
+Vet-LIRN,OTH-22-VL-ON-ON-0070,Indiana,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Tetracycline,2.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-ON-ON-0070
+Vet-LIRN,OTH-22-VL-ON-ON-0070,Indiana,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Tiamulin,32.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-ON-ON-0070
+Vet-LIRN,OTH-22-VL-ON-ON-0070,Indiana,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Tildipirosin,16.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-ON-ON-0070
+Vet-LIRN,OTH-22-VL-ON-ON-0070,Indiana,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Tilmicosin,16.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-ON-ON-0070
+Vet-LIRN,OTH-22-VL-ON-ON-0070,Indiana,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Trimethoprim/Sulfamethoxazole,2.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-ON-ON-0070
+Vet-LIRN,OTH-22-VL-ON-ON-0070,Kansas,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Tulathromycin,32.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-ON-ON-0070
+Vet-LIRN,OTH-22-VL-ON-ON-0070,Kansas,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Tylosin,32.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-ON-ON-0070
+Vet-LIRN,OTH-22-VL-SD-IA-0028,Kentucky,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Amikacin,2.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0028
+Vet-LIRN,OTH-22-VL-SD-IA-0028,Kentucky,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ampicillin,16.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0028
+Vet-LIRN,OTH-22-VL-SD-IA-0028,Kentucky,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Cefazolin,2.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0028
+Vet-LIRN,OTH-22-VL-SD-IA-0028,Kentucky,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ceftazidime,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0028
+Vet-LIRN,OTH-22-VL-SD-IA-0028,Kentucky,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ceftiofur,1.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0028
+Vet-LIRN,OTH-22-VL-SD-IA-0028,Kentucky,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Chloramphenicol,8.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0028
+Vet-LIRN,OTH-22-VL-SD-IA-0028,Kentucky,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Clarithromycin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0028
+Vet-LIRN,OTH-22-VL-SD-IA-0028,Kentucky,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Doxycycline,2.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0028
+Vet-LIRN,OTH-22-VL-SD-IA-0028,Kentucky,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Enrofloxacin,0.06,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0028
+Vet-LIRN,OTH-22-VL-SD-IA-0028,Kentucky,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Erythromycin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0028
+Vet-LIRN,OTH-22-VL-SD-IA-0028,Kentucky,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Gentamicin,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0028
+Vet-LIRN,OTH-22-VL-SD-IA-0028,Kentucky,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Minocycline,2.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0028
+Vet-LIRN,OTH-22-VL-SD-IA-0028,Kentucky,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Oxacillin + 2% NaCl,4.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0028
+Vet-LIRN,OTH-22-VL-SD-IA-0028,Kentucky,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Penicillin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0028
+Vet-LIRN,OTH-22-VL-SD-IA-0028,Kentucky,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Rifampin,4.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0028
+Vet-LIRN,OTH-22-VL-SD-IA-0028,Kentucky,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Tetracycline,1.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0028
+Vet-LIRN,OTH-22-VL-SD-IA-0028,Michigan,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Trimethoprim/Sulfamethoxazole,4.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0028
+Vet-LIRN,OTH-22-VL-SD-IA-0033,Michigan,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Amikacin,32.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0033
+Vet-LIRN,OTH-22-VL-SD-IA-0033,Michigan,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Amoxicillin/Clavulanic Acid,8.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0033
+Vet-LIRN,OTH-22-VL-SD-IA-0033,Michigan,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Ampicillin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0033
+Vet-LIRN,OTH-22-VL-SD-IA-0033,Michigan,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cefazolin,2.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0033
+Vet-LIRN,OTH-22-VL-SD-IA-0033,Michigan,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cefovecin,0.5,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0033
+Vet-LIRN,OTH-22-VL-SD-IA-0033,Michigan,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cefpodoxime,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0033
+Vet-LIRN,OTH-22-VL-SD-IA-0033,Michigan,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Ceftazidime,4.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0033
+Vet-LIRN,OTH-22-VL-SD-IA-0033,Michigan,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cephalexin,4.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0033
+Vet-LIRN,OTH-22-VL-SD-IA-0033,Michigan,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Chloramphenicol,4.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0033
+Vet-LIRN,OTH-22-VL-SD-IA-0033,Michigan,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Doxycycline,8.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0033
+Vet-LIRN,OTH-22-VL-SD-IA-0033,Michigan,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Enrofloxacin,0.125,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0033
+Vet-LIRN,OTH-22-VL-SD-IA-0033,Michigan,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Gentamicin,0.25,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0033
+Vet-LIRN,OTH-22-VL-SD-IA-0033,Michigan,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Imipenem,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0033
+Vet-LIRN,OTH-22-VL-SD-IA-0033,Michigan,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Marbofloxacin,0.125,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0033
+Vet-LIRN,OTH-22-VL-SD-IA-0033,Michigan,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Orbifloxacin,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0033
+Vet-LIRN,OTH-22-VL-SD-IA-0033,Michigan,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Piperacillin/Tazobactam,8.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0033
+Vet-LIRN,OTH-22-VL-SD-IA-0033,Michigan,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Pradofloxacin,0.25,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0033
+Vet-LIRN,OTH-22-VL-SD-IA-0033,Michigan,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Tetracycline,4.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0033
+Vet-LIRN,OTH-22-VL-SD-IA-0033,Mississippi,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Trimethoprim/Sulfamethoxazole,4.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-SD-IA-0033
+Vet-LIRN,OTH-22-VL-SD-OK-0006,Oklahoma,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Amikacin,4.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0006
+Vet-LIRN,OTH-22-VL-SD-OK-0006,Oklahoma,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Amoxicillin/Clavulanic Acid,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0006
+Vet-LIRN,OTH-22-VL-SD-OK-0006,Oklahoma,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Ampicillin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0006
+Vet-LIRN,OTH-22-VL-SD-OK-0006,Oklahoma,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cephalexin,16.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0006
+Vet-LIRN,OTH-22-VL-SD-OK-0006,Pennsylvania,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cefazolin,32.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0006
+Vet-LIRN,OTH-22-VL-SD-OK-0006,Pennsylvania,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cefovecin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0006
+Vet-LIRN,OTH-22-VL-SD-OK-0006,Pennsylvania,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cefpodoxime,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0006
+Vet-LIRN,OTH-22-VL-SD-OK-0006,Pennsylvania,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Ceftazidime,16.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0006
+Vet-LIRN,OTH-22-VL-SD-OK-0006,Pennsylvania,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Chloramphenicol,8.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0006
+Vet-LIRN,OTH-22-VL-SD-OK-0006,Pennsylvania,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Doxycycline,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0006
+Vet-LIRN,OTH-22-VL-SD-OK-0006,Pennsylvania,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Enrofloxacin,4.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0006
+Vet-LIRN,OTH-22-VL-SD-OK-0006,Pennsylvania,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Gentamicin,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0006
+Vet-LIRN,OTH-22-VL-SD-OK-0006,Pennsylvania,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Imipenem,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0006
+Vet-LIRN,OTH-22-VL-SD-OK-0006,Pennsylvania,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Marbofloxacin,4.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0006
+Vet-LIRN,OTH-22-VL-SD-OK-0006,Pennsylvania,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Orbifloxacin,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0006
+Vet-LIRN,OTH-22-VL-SD-OK-0006,Pennsylvania,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Piperacillin/Tazobactam,32.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0006
+Vet-LIRN,OTH-22-VL-SD-OK-0006,Pennsylvania,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Pradofloxacin,2.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0006
+Vet-LIRN,OTH-22-VL-SD-OK-0006,Pennsylvania,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Tetracycline,16.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0006
+Vet-LIRN,OTH-22-VL-SD-OK-0006,Pennsylvania,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Trimethoprim/Sulfamethoxazole,4.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0006
+Vet-LIRN,OTH-22-VL-SD-OK-0052,Pennsylvania,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Amikacin,4.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0052
+Vet-LIRN,OTH-22-VL-SD-OK-0052,Pennsylvania,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Amoxicillin/Clavulanic Acid,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0052
+Vet-LIRN,OTH-22-VL-SD-OK-0052,Pennsylvania,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ampicillin,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0052
+Vet-LIRN,OTH-22-VL-SD-OK-0052,Pennsylvania,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Cefazolin,32.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0052
+Vet-LIRN,OTH-22-VL-SD-OK-0052,Pennsylvania,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Cefovecin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0052
+Vet-LIRN,OTH-22-VL-SD-OK-0052,Pennsylvania,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Cefpodoxime,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0052
+Vet-LIRN,OTH-22-VL-SD-OK-0052,Pennsylvania,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ceftazidime,16.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0052
+Vet-LIRN,OTH-22-VL-SD-OK-0052,Pennsylvania,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Cephalexin,16.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0052
+Vet-LIRN,OTH-22-VL-SD-OK-0052,Pennsylvania,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Chloramphenicol,8.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0052
+Vet-LIRN,OTH-22-VL-SD-OK-0052,Pennsylvania,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Doxycycline,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0052
+Vet-LIRN,OTH-22-VL-SD-OK-0052,Pennsylvania,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Enrofloxacin,4.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0052
+Vet-LIRN,OTH-22-VL-SD-OK-0052,Pennsylvania,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Gentamicin,0.5,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0052
+Vet-LIRN,OTH-22-VL-SD-OK-0052,Pennsylvania,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Marbofloxacin,4.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0052
+Vet-LIRN,OTH-22-VL-SD-OK-0052,Pennsylvania,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Orbifloxacin,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0052
+Vet-LIRN,OTH-22-VL-SD-OK-0052,Pennsylvania,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Piperacillin/Tazobactam,16.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0052
+Vet-LIRN,OTH-22-VL-SD-OK-0052,Pennsylvania,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Pradofloxacin,2.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0052
+Vet-LIRN,OTH-22-VL-SD-OK-0052,Pennsylvania,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Tetracycline,16.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0052
+Vet-LIRN,OTH-22-VL-SD-OK-0052,Texas,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Trimethoprim/Sulfamethoxazole,4.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-SD-OK-0052
+Vet-LIRN,OTH-22-VL-WA-IL-0007,Kentucky,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cefazolin,32.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-WA-IL-0007
+Vet-LIRN,OTH-22-VL-WA-IL-0007,Kentucky,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cefovecin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-IL-0007
+Vet-LIRN,OTH-22-VL-WA-IL-0007,Kentucky,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cefpodoxime,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-IL-0007
+Vet-LIRN,OTH-22-VL-WA-IL-0007,Kentucky,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Ceftazidime,16.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-WA-IL-0007
+Vet-LIRN,OTH-22-VL-WA-IL-0007,Kentucky,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Cephalexin,16.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-IL-0007
+Vet-LIRN,OTH-22-VL-WA-IL-0007,Kentucky,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Chloramphenicol,32.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-WA-IL-0007
+Vet-LIRN,OTH-22-VL-WA-IL-0007,Kentucky,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Doxycycline,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-WA-IL-0007
+Vet-LIRN,OTH-22-VL-WA-IL-0007,Kentucky,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Enrofloxacin,4.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-WA-IL-0007
+Vet-LIRN,OTH-22-VL-WA-IL-0007,Kentucky,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Gentamicin,0.25,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-IL-0007
+Vet-LIRN,OTH-22-VL-WA-IL-0007,Kentucky,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Imipenem,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-IL-0007
+Vet-LIRN,OTH-22-VL-WA-IL-0007,Kentucky,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Marbofloxacin,4.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-WA-IL-0007
+Vet-LIRN,OTH-22-VL-WA-IL-0007,Kentucky,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Orbifloxacin,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-WA-IL-0007
+Vet-LIRN,OTH-22-VL-WA-IL-0007,Kentucky,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Piperacillin/Tazobactam,32.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-IL-0007
+Vet-LIRN,OTH-22-VL-WA-IL-0007,Kentucky,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Pradofloxacin,2.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-IL-0007
+Vet-LIRN,OTH-22-VL-WA-IL-0007,Kentucky,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Tetracycline,16.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-WA-IL-0007
+Vet-LIRN,OTH-22-VL-WA-IL-0007,Kentucky,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Trimethoprim/Sulfamethoxazole,4.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-WA-IL-0007
+Vet-LIRN,OTH-22-VL-WA-IL-0007,Virginia,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Amikacin,4.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-IL-0007
+Vet-LIRN,OTH-22-VL-WA-IL-0007,Virginia,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Amoxicillin/Clavulanic Acid,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-IL-0007
+Vet-LIRN,OTH-22-VL-WA-IL-0007,Virginia,Dogs,Urinary Tract Infections (UTI),Klebsiella spp,Ampicillin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-IL-0007
+Vet-LIRN,OTH-22-VL-WA-KY-0003,Kentucky,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Amikacin,2.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0003
+Vet-LIRN,OTH-22-VL-WA-KY-0003,Kentucky,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ampicillin,16.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0003
+Vet-LIRN,OTH-22-VL-WA-KY-0003,Kentucky,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Cefazolin,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0003
+Vet-LIRN,OTH-22-VL-WA-KY-0003,Kentucky,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ceftazidime,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0003
+Vet-LIRN,OTH-22-VL-WA-KY-0003,Kentucky,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ceftiofur,0.5,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0003
+Vet-LIRN,OTH-22-VL-WA-KY-0003,Kentucky,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Chloramphenicol,4.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0003
+Vet-LIRN,OTH-22-VL-WA-KY-0003,Kentucky,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Clarithromycin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0003
+Vet-LIRN,OTH-22-VL-WA-KY-0003,Kentucky,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Doxycycline,2.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0003
+Vet-LIRN,OTH-22-VL-WA-KY-0003,Kentucky,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Enrofloxacin,0.06,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0003
+Vet-LIRN,OTH-22-VL-WA-KY-0003,Kentucky,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Erythromycin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0003
+Vet-LIRN,OTH-22-VL-WA-KY-0003,Kentucky,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Gentamicin,1.0,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0003
+Vet-LIRN,OTH-22-VL-WA-KY-0003,Missouri,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Minocycline,2.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0003
+Vet-LIRN,OTH-22-VL-WA-KY-0003,Missouri,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Oxacillin + 2% NaCl,4.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0003
+Vet-LIRN,OTH-22-VL-WA-KY-0003,Missouri,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Penicillin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0003
+Vet-LIRN,OTH-22-VL-WA-KY-0003,Missouri,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Rifampin,4.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0003
+Vet-LIRN,OTH-22-VL-WA-KY-0003,Missouri,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Tetracycline,2.0,=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0003
+Vet-LIRN,OTH-22-VL-WA-KY-0003,Missouri,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Trimethoprim/Sulfamethoxazole,0.5,<=,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0003
+Vet-LIRN,OTH-22-VL-WA-KY-0007,Georgia,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Penicillin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0007
+Vet-LIRN,OTH-22-VL-WA-KY-0007,Georgia,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Rifampin,4.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0007
+Vet-LIRN,OTH-22-VL-WA-KY-0007,Georgia,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Tetracycline,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0007
+Vet-LIRN,OTH-22-VL-WA-KY-0007,Georgia,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Trimethoprim/Sulfamethoxazole,4.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0007
+Vet-LIRN,OTH-22-VL-WA-KY-0007,Missouri,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Amikacin,32.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0007
+Vet-LIRN,OTH-22-VL-WA-KY-0007,Missouri,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ampicillin,16.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0007
+Vet-LIRN,OTH-22-VL-WA-KY-0007,Missouri,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Cefazolin,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0007
+Vet-LIRN,OTH-22-VL-WA-KY-0007,Missouri,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ceftazidime,16.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0007
+Vet-LIRN,OTH-22-VL-WA-KY-0007,Missouri,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Ceftiofur,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0007
+Vet-LIRN,OTH-22-VL-WA-KY-0007,Missouri,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Chloramphenicol,32.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0007
+Vet-LIRN,OTH-22-VL-WA-KY-0007,Missouri,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Clarithromycin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0007
+Vet-LIRN,OTH-22-VL-WA-KY-0007,Missouri,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Doxycycline,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0007
+Vet-LIRN,OTH-22-VL-WA-KY-0007,Missouri,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Enrofloxacin,1.0,=,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0007
+Vet-LIRN,OTH-22-VL-WA-KY-0007,Missouri,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Erythromycin,8.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0007
+Vet-LIRN,OTH-22-VL-WA-KY-0007,Missouri,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Gentamicin,8.0,>,Resistant,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0007
+Vet-LIRN,OTH-22-VL-WA-KY-0007,Missouri,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Minocycline,2.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0007
+Vet-LIRN,OTH-22-VL-WA-KY-0007,Missouri,Dogs,Other Tissues/ Body Sites,Klebsiella spp,Oxacillin + 2% NaCl,4.0,>,Susceptible,2022,Vet-LIRN|2022|OTH-22-VL-WA-KY-0007
+Vet-LIRN,SPSE-21-VL-NY-MS-0010,Mississippi,Dogs,Other Tissues/ Body Sites,Staphylococcus pseudintermedius,Amikacin,4.0,<=,Susceptible,2021,Vet-LIRN|2021|SPSE-21-VL-NY-MS-0010
+Vet-LIRN,SPSE-21-VL-NY-MS-0010,Mississippi,Dogs,Other Tissues/ Body Sites,Staphylococcus pseudintermedius,Amoxicillin/Clavulanic Acid,0.12,<=,Susceptible,2021,Vet-LIRN|2021|SPSE-21-VL-NY-MS-0010
+Vet-LIRN,SPSE-21-VL-NY-MS-0010,Mississippi,Dogs,Other Tissues/ Body Sites,Staphylococcus pseudintermedius,Ampicillin,0.12,<=,Susceptible,2021,Vet-LIRN|2021|SPSE-21-VL-NY-MS-0010
+Vet-LIRN,SPSE-21-VL-NY-MS-0010,Mississippi,Dogs,Other Tissues/ Body Sites,Staphylococcus pseudintermedius,Cefazolin,1.0,<=,Susceptible,2021,Vet-LIRN|2021|SPSE-21-VL-NY-MS-0010
+Vet-LIRN,SPSE-21-VL-NY-MS-0010,Mississippi,Dogs,Other Tissues/ Body Sites,Staphylococcus pseudintermedius,Cefovecin,0.25,<=,Susceptible,2021,Vet-LIRN|2021|SPSE-21-VL-NY-MS-0010
+Vet-LIRN,SPSE-21-VL-NY-MS-0010,Mississippi,Dogs,Other Tissues/ Body Sites,Staphylococcus pseudintermedius,Cefoxitin,2.0,<=,Susceptible,2021,Vet-LIRN|2021|SPSE-21-VL-NY-MS-0010
+Vet-LIRN,SPSE-21-VL-NY-MS-0010,Mississippi,Dogs,Other Tissues/ Body Sites,Staphylococcus pseudintermedius,Cefpodoxime,2.0,<=,Susceptible,2021,Vet-LIRN|2021|SPSE-21-VL-NY-MS-0010
+Vet-LIRN,SPSE-21-VL-NY-MS-0010,Mississippi,Dogs,Other Tissues/ Body Sites,Staphylococcus pseudintermedius,Ceftiofur,0.25,<=,Susceptible,2021,Vet-LIRN|2021|SPSE-21-VL-NY-MS-0010
+Vet-LIRN,SPSE-21-VL-NY-MS-0010,Mississippi,Dogs,Other Tissues/ Body Sites,Staphylococcus pseudintermedius,Cephalothin,2.0,<=,Susceptible,2021,Vet-LIRN|2021|SPSE-21-VL-NY-MS-0010
+Vet-LIRN,SPSE-21-VL-NY-MS-0010,Mississippi,Dogs,Other Tissues/ Body Sites,Staphylococcus pseudintermedius,Chloramphenicol,4.0,<=,Susceptible,2021,Vet-LIRN|2021|SPSE-21-VL-NY-MS-0010
+Vet-LIRN,SPSE-21-VL-NY-MS-0010,Mississippi,Dogs,Other Tissues/ Body Sites,Staphylococcus pseudintermedius,Clindamycin,0.5,<=,Susceptible,2021,Vet-LIRN|2021|SPSE-21-VL-NY-MS-0010
+Vet-LIRN,SPSE-21-VL-NY-MS-0010,Mississippi,Dogs,Other Tissues/ Body Sites,Staphylococcus pseudintermedius,Doxycycline,8.0,=,Resistant,2021,Vet-LIRN|2021|SPSE-21-VL-NY-MS-0010
+Vet-LIRN,SPSE-21-VL-NY-MS-0010,Mississippi,Dogs,Other Tissues/ Body Sites,Staphylococcus pseudintermedius,Enrofloxacin,0.25,<=,Susceptible,2021,Vet-LIRN|2021|SPSE-21-VL-NY-MS-0010
+Vet-LIRN,SPSE-21-VL-NY-MS-0010,Mississippi,Dogs,Other Tissues/ Body Sites,Staphylococcus pseudintermedius,Erythromycin,0.5,<=,Susceptible,2021,Vet-LIRN|2021|SPSE-21-VL-NY-MS-0010
+Vet-LIRN,SPSE-21-VL-NY-MS-0010,Mississippi,Dogs,Other Tissues/ Body Sites,Staphylococcus pseudintermedius,Gentamicin,1.0,<=,Susceptible,2021,Vet-LIRN|2021|SPSE-21-VL-NY-MS-0010
+Vet-LIRN,SPSE-21-VL-NY-MS-0010,Mississippi,Dogs,Other Tissues/ Body Sites,Staphylococcus pseudintermedius,Marbofloxacin,0.5,=,Resistant,2021,Vet-LIRN|2021|SPSE-21-VL-NY-MS-0010
+Vet-LIRN,SPSE-21-VL-NY-MS-0010,Mississippi,Dogs,Other Tissues/ Body Sites,Staphylococcus pseudintermedius,Oxacillin,0.25,<=,Susceptible,2021,Vet-LIRN|2021|SPSE-21-VL-NY-MS-0010
+Vet-LIRN,SPSE-21-VL-NY-MS-0010,Mississippi,Dogs,Other Tissues/ Body Sites,Staphylococcus pseudintermedius,Penicillin,0.25,=,Resistant,2021,Vet-LIRN|2021|SPSE-21-VL-NY-MS-0010
+Vet-LIRN,SPSE-21-VL-NY-MS-0010,Mississippi,Dogs,Other Tissues/ Body Sites,Staphylococcus pseudintermedius,Rifampin,1.0,<=,Susceptible,2021,Vet-LIRN|2021|SPSE-21-VL-NY-MS-0010
+Vet-LIRN,SPSE-21-VL-NY-MS-0010,Mississippi,Dogs,Urinary Tract Infections (UTI),Staphylococcus pseudintermedius,Ticarcillin,8.0,<=,Susceptible,2021,Vet-LIRN|2021|SPSE-21-VL-NY-MS-0010
+Vet-LIRN,SPSE-21-VL-NY-MS-0010,Mississippi,Dogs,Urinary Tract Infections (UTI),Staphylococcus pseudintermedius,Ticarcillin/Clavulanic Acid,8.0,<=,Susceptible,2021,Vet-LIRN|2021|SPSE-21-VL-NY-MS-0010
+Vet-LIRN,SPSE-21-VL-NY-MS-0010,Mississippi,Dogs,Urinary Tract Infections (UTI),Staphylococcus pseudintermedius,Trimethoprim/Sulfamethoxazole,0.5,<=,Susceptible,2021,Vet-LIRN|2021|SPSE-21-VL-NY-MS-0010

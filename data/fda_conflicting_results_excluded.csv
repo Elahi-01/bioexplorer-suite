@@ -1,0 +1,3 @@
+Agency,Original_sample_ID,State,Host,Specimen,Bacteria,Antibiotic,MIC,MIC_sign,Result,Year,Isolate_ID
+Vet-LIRN,ECOL-23-VL-SD-MI-0040,Michigan,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Cephalexin,4.0,>,Susceptible,2023,Vet-LIRN|2023|ECOL-23-VL-SD-MI-0040
+Vet-LIRN,ECOL-23-VL-SD-MI-0040,Michigan,Dogs,Urinary Tract Infections (UTI),Escherichia coli,Cephalexin,16.0,>,Resistant,2023,Vet-LIRN|2023|ECOL-23-VL-SD-MI-0040
